@@ -6,3 +6,4 @@
 ## 2. Notebook
    - In the notebook I have preprocessed and visualized the data, if you have any questions please contact
   
+##https://www.kaggle.com/code/therealsampat/fake-news-detection/input?select=Fake.csv
